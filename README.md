@@ -1,1 +1,2 @@
 # odin-recipes
+I am going to learn to build a website using the skills I have acquired thus far. I will learn how to create a website with a splash page and index linking to different webpages containing text. This will help me have a basic understanding of how to start the basis of a website and get me more comfortable using Git.
